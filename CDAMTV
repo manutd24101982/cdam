@@ -350,15 +350,24 @@ http://45.126.83.51/session/1923e3d6-5de2-11ea-b299-b8a192928e05/dr9445/h/h15/in
  
 #⛔⛔⛔⛔⛔⛔⛔⛔⛔⛔⛔⛔⛔⛔⛔⛔⛔⛔⛔⛔⛔⛔⛔⛔⛔⛔⛔⛔
 #EXTINF:-1 group-title=" 🇻🇳 KÊNH 4K UHD 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png" ,EUROSPORT 4K
-#EXTVLCOPT:http-user-agent=CDAM
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw20000000/variant.m3u8
 #EXTINF:-1 group-title=" 🇻🇳 KÊNH 4K UHD 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png" ,CINEMA 4K
-#EXTVLCOPT:http-user-agent=CDAM
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw20000000/variant.m3u8
 #EXTINF:-1 group-title=" 🇻🇳 KÊNH 4K UHD 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png" ,ULTRA REX 4K
-#EXTVLCOPT:http-user-agent=CDAM
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw20000000/variant.m3u8
 #EXTINF:-1 group-title=" 🇻🇳 KÊNH 4K UHD 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png" ,LOVE NATURE 4K
-#EXTVLCOPT:http-user-agent=CDAM
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw20000000/variant.m3u8
+ 
+
+
+#EXTINF:-1 group-title="🇻🇳 LIVE SPORTS 🇺🇸" tvg-logo="http://imgur.com/BZKL0AK.png",EPL 1
+http://push10.feber.xyz:80/hls/nbcsportshd40/chunks.m3u8?userAgent=cdam
+#EXTINF:-1 group-title="🇻🇳 LIVE SPORTS 🇺🇸" tvg-logo="http://imgur.com/BZKL0AK.png",EPL 2
+https://cdndaily.troll.network/x3/x3.m3u8
+#EXTINF:-1 group-title="🇻🇳 LIVE SPORTS 🇺🇸" tvg-logo="http://imgur.com/BZKL0AK.png",EPL 3
+http://iptv3.premium-stv.com:25461/live/8571361380SP@pro2@1980/453890s@bljbzd@44t@A/40.ts
+#EXTINF:-1 group-title="🇻🇳 LIVE SPORTS 🇺🇸" tvg-logo="http://imgur.com/BZKL0AK.png",EPL 4
+https://cdndaily.troll.network/x4/x4.m3u8
+#EXTINF:-1 group-title="🇻🇳 LIVE SPORTS 🇺🇸" tvg-logo="http://imgur.com/BZKL0AK.png",EPL 5
+http://35.227.234.181:80/live/n/chunks.m3u8?userAgent=cdam
  
