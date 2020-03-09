@@ -358,3 +358,28 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw20000000/va
 #EXTINF:-1 group-title=" 🇻🇳 KÊNH 4K UHD 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png" ,LOVE NATURE 4K
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw20000000/variant.m3u8
  
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 2 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",TRUE PREMIER FOOTBALL 1
+https://tv4.chang55.com/live2/tv4ch10.stream/chunks.m3u8
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 2 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",TRUE PREMIER FOOTBALL 2
+https://tv4.chang55.com/live2/tv4ch11.stream/chunks.m3u8
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 2 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",TRUE PREMIER FOOTBALL 3
+https://tv4.chang55.com/live2/tv4ch12.stream/chunks.m3u8
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 2 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",TRUE PREMIER FOOTBALL 4
+https://tv4.chang55.com/live2/tv4ch13.stream/chunks.m3u8
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 2 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png", SKYNETSPORTS HD
+https://tv4.chang55.com/live2/tv4ch01.stream/chunks.m3u8
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 2 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png", SKYNETSPORTS PLUS
+https://tv4.chang55.com/live2/tv4ch46.stream/chunks.m3u8
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 2 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png", SKYNETSPORTS 1
+https://tv4.chang55.com/live2/tv4ch02.stream/chunks.m3u8
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 2 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png", SKYNETSPORTS 2
+https://tv4.chang55.com/live2/tv4ch03.stream/chunks.m3u8
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 2 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png", SKYNETSPORTS 3
+https://tv4.chang55.com/live2/tv4ch04.stream/chunks.m3u8
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 2 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png", SKYNETSPORTS 4
+https://tv4.chang55.com/live2/tv4ch05.stream/chunks.m3u8
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 2 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png", SKYNETSPORTS 5
+https://tv4.chang55.com/live2/tv4ch06.stream/chunks.m3u8
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 2 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png", SKYNETSPORTS 6
+https://tv4.chang55.com/live2/tv4ch07.stream/chunks.m3u8
+ 
