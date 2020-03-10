@@ -358,28 +358,85 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw20000000/va
 #EXTINF:-1 group-title=" 🇻🇳 KÊNH 4K UHD 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png" ,LOVE NATURE 4K
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw20000000/variant.m3u8
  
-#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 2 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",TRUE PREMIER FOOTBALL 1
-https://tv4.chang55.com/live2/tv4ch10.stream/chunks.m3u8
-#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 2 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",TRUE PREMIER FOOTBALL 2
-https://tv4.chang55.com/live2/tv4ch11.stream/chunks.m3u8
-#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 2 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",TRUE PREMIER FOOTBALL 3
-https://tv4.chang55.com/live2/tv4ch12.stream/chunks.m3u8
-#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 2 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",TRUE PREMIER FOOTBALL 4
-https://tv4.chang55.com/live2/tv4ch13.stream/chunks.m3u8
-#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 2 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png", SKYNETSPORTS HD
-https://tv4.chang55.com/live2/tv4ch01.stream/chunks.m3u8
-#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 2 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png", SKYNETSPORTS PLUS
-https://tv4.chang55.com/live2/tv4ch46.stream/chunks.m3u8
-#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 2 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png", SKYNETSPORTS 1
-https://tv4.chang55.com/live2/tv4ch02.stream/chunks.m3u8
-#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 2 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png", SKYNETSPORTS 2
-https://tv4.chang55.com/live2/tv4ch03.stream/chunks.m3u8
-#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 2 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png", SKYNETSPORTS 3
-https://tv4.chang55.com/live2/tv4ch04.stream/chunks.m3u8
-#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 2 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png", SKYNETSPORTS 4
-https://tv4.chang55.com/live2/tv4ch05.stream/chunks.m3u8
-#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 2 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png", SKYNETSPORTS 5
-https://tv4.chang55.com/live2/tv4ch06.stream/chunks.m3u8
-#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 2 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png", SKYNETSPORTS 6
-https://tv4.chang55.com/live2/tv4ch07.stream/chunks.m3u8
+
  
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 1 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",NBCSN
+http://84.17.44.167:24561/live/stepl3x/FUCKOFF123!/27?token=4VnWLqQsy5Ko3lkl
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 1 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",NBC GOLF
+http://84.17.44.167:24561/live/stepl3x/FUCKOFF123!/974?token=pHb5V6pgGSNdA8Aq
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 1 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",FS1
+http://84.17.44.167:24561/live/stepl3x/FUCKOFF123!/54?token=DjLG8tVri7241myA
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 1 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",FS2
+http://84.17.44.167:24561/live/stepl3x/FUCKOFF123!/53?token=DjLG8tVri7241myA
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 1 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",BEINSPORTS US
+http://198.37.123.191:24561/live/stepl3x/FUCKOFF123!/90?token=DjLG8tVri7241myA
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 1 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",ESPN
+http://198.37.123.191:24561/live/stepl3x/FUCKOFF123!/886?token=DjLG8tVri7241myA
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 1 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",ESPN 2
+http://84.17.44.167:24561/live/stepl3x/FUCKOFF123!/12379?token=DjLG8tVri7241myA
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 1 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",SKY PREMIER LEAGUE
+http://45.90.104.74:24561/live/stepl3x/FUCKOFF123!/85430?token=4VnWLqQsy5Ko3lkl
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 1 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",SKY MAIN EVENT
+http://104.37.174.67:24561/live/stepl3x/FUCKOFF123!/173?token=DjLG8tVri7241myA
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 1 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",SKY FOOTBALL
+http://163.172.222.65:24561/live/stepl3x/FUCKOFF123!/159?token=DjLG8tVri7241myA
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 1 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",SKY F1
+http://104.37.174.67:24561/live/stepl3x/FUCKOFF123!/215?token=DjLG8tVri7241myA
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 1 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",BTSPORTS 1
+http://45.90.104.74:24561/live/stepl3x/FUCKOFF123!/83293?token=DjLG8tVri7241myA
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 1 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",BTSPORTS 2
+http://45.90.104.74:24561/live/stepl3x/FUCKOFF123!/83297?token=DjLG8tVri7241myA
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 1 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",BTSPORTS 3
+http://198.37.123.191:24561/live/stepl3x/FUCKOFF123!/45083?token=DjLG8tVri7241myA
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 1 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",PREMIERSPORT 1
+http://198.37.123.191:24561/live/stepl3x/FUCKOFF123!/266?token=DjLG8tVri7241myA
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 1 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",PREMIERSPORT 2
+http://163.172.222.65:24561/live/stepl3x/FUCKOFF123!/71129?token=DjLG8tVri7241myA
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 1 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",LALIGA TV
+http://45.90.104.222:24561/live/stepl3x/FUCKOFF123!/71325?token=DjLG8tVri7241myA
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 1 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",RMC 1
+http://163.172.56.233:25461/live/8571361380SP@pro2@1980/453890s@bljbzd@44t@A/40.ts?token=HRRRV0AKQQgVAgZVVFYBBQBaXVVWV1dXUw4HUlVSCVUHAVoEClZSUwZETxQXQ0MBBA47XwJHCVFVG0cWEQNCbw9SGwwRVkEeFRIKWwEVC1VQW1cAVVIBVVYbRxMLAhIKRAQMAgBATxBSHhdTFllQCDoHAUAPBlZHX1kQDw5KEl8IaV1TXgMNVhVcQQZGGxMNFhNGDAgQXwlJFQcKFhRRRAMUAxQAVlsLFUpBVQtCXxAXGkYMRDN9R0kVABsWA15DD1lXFAlAF0EVSkFfF2hDARYXFlMHCFYXRw1HUkBKEl0HTmZVXAwNV1QSClkKRBNeR1NGGkQIXAsMQwoRPRZZVEQMGwcBWlcLFRs=
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 1 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",RMC 2
+http://185.229.191.88:24561/live/stepl3x/FUCKOFF123!/3407?token=pHb5V6pgGSNdA8Aq
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 1 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",RMC 3
+http://185.229.191.88:24561/live/stepl3x/FUCKOFF123!/3406?token=pHb5V6pgGSNdA8Aq
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 1 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",BEINSPORTS 1 FR
+http://45.90.104.222:24561/live/stepl3x/FUCKOFF123!/3405?token=pHb5V6pgGSNdA8Aq
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 1 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",BEINSPORTS 2 FR
+http://45.90.104.222:24561/live/stepl3x/FUCKOFF123!/3404?token=pHb5V6pgGSNdA8Aq
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 1 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",BEINSPORTS 3 FR
+http://45.90.104.222:24561/live/stepl3x/FUCKOFF123!/3403?token=pHb5V6pgGSNdA8Aq
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 1 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",SONYTEN 1
+http://45.90.104.222:24561/live/stepl3x/FUCKOFF123!/45860?token=pHb5V6pgGSNdA8Aq
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 1 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",SONYTEN 2
+http://45.90.104.222:24561/live/stepl3x/FUCKOFF123!/45859?token=pHb5V6pgGSNdA8Aq
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 1 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",SONYTEN 3
+http://45.90.104.222:24561/live/stepl3x/FUCKOFF123!/45858?token=pHb5V6pgGSNdA8Aq
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 1 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",SONY SIX
+http://45.90.104.222:24561/live/stepl3x/FUCKOFF123!/45886?token=pHb5V6pgGSNdA8Aq
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 1 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",SONY ESPN
+http://45.90.104.222:24561/live/stepl3x/FUCKOFF123!/45896?token=pHb5V6pgGSNdA8Aq
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 1 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",BEINSPORTS 1
+http://163.172.222.65:24561/live/stepl3x/FUCKOFF123!/32914?token=DjLG8tVri7241myA
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 1 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",BEINSPORTS 2
+http://185.229.191.88:24561/live/stepl3x/FUCKOFF123!/32913?token=DjLG8tVri7241myA
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 1 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",BEINSPORTS 3
+http://198.37.123.191:24561/live/stepl3x/FUCKOFF123!/32912?token=DjLG8tVri7241myA
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 1 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",BEINSPORTS 4
+http://163.172.222.65:24561/live/stepl3x/FUCKOFF123!/32911?token=DjLG8tVri7241myA
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 1 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",BEINSPORTS 5
+http://198.37.123.191:24561/live/stepl3x/FUCKOFF123!/32910?token=DjLG8tVri7241myA
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 1 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",BEINSPORTS 6
+http://185.229.191.88:24561/live/stepl3x/FUCKOFF123!/32909?token=DjLG8tVri7241myA
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 1 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",BEINSPORTS 7
+http://198.37.123.191:24561/live/stepl3x/FUCKOFF123!/32908?token=DjLG8tVri7241myA
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 1 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",BEINSPORTS 8
+http://198.37.123.191:24561/live/stepl3x/FUCKOFF123!/32907?token=DjLG8tVri7241myA
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 1 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",BEINSPORTS 9
+http://198.37.123.191:24561/live/stepl3x/FUCKOFF123!/32906?token=DjLG8tVri7241myA
+#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 1 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",BEINSPORTS 10
+http://163.172.222.65:24561/live/stepl3x/FUCKOFF123!/32917?token=DjLG8tVri7241myA
+ 
+ 
+ 
+#
