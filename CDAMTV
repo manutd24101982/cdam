@@ -353,14 +353,6 @@ http://185.180.12.34:8080/ARENA3HR/index.m3u8?token=test
 http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
 #EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",ARENA SPORTS 5
 http://ott.artmott.com/ArenaSport5MW/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",ESPN
-http://npse.brots.world/espn2.m3u8
-#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",ESPN 2
-https://gma2.blab.email/espn2.m3u8
-#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",ESPN NEWS
-https://gma2.blab.email/espnews.m3u8
-#EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",ESPN U
-https://gma2.blab.email/espnu.m3u8
 #EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",SETANTA SPORT 1
 http://92.46.127.146:8080//SetantaSport/index.m3u8
 #EXTINF:-1 group-title=" 🇻🇳 KÊNH THỂ THAO 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",SETANTA SPORT 2
