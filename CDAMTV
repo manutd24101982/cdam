@@ -222,20 +222,6 @@ http://84.22.33.254/unicast.outdoorchannel/index.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
 #EXTINF:-1 group-title=" 🇻🇳 KÊNH THIẾU NHI 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png", DAVINCI KIDS
 http://htv-drm-live-cdn.fptplay.net:80/CDN-FPT02/DAVINCY-HD-1080p/chunks.m3u8
-#EXTINF:-1 group-title=" 🇻🇳 KÊNH THIẾU NHI 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png", CARTOON NETWORK
-http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
-#EXTINF:-1 group-title=" 🇻🇳 KÊNH THIẾU NHI 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",DISNEY CHANNEL 1
-http://144.217.253.140/Disneycinema/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title=" 🇻🇳 KÊNH THIẾU NHI 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",DISNEY CHANNEL 2
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/bw2000000/variant.m3u8
-#EXTINF:-1 group-title=" 🇻🇳 KÊNH THIẾU NHI 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",DISNEY CHANNEL 3
-http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title=" 🇻🇳 KÊNH THIẾU NHI 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",DISNEY JUNIOR
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-#EXTINF:-1 group-title=" 🇻🇳 KÊNH THIẾU NHI 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",BOOMERANG
-http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
-#EXTINF:-1 group-title=" 🇻🇳 KÊNH THIẾU NHI 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",GEM KIDS
-http://95.170.215.120/hls/m3u8/Gem-Kids.m3u8
 #EXTINF:-1 group-title=" 🇻🇳 KÊNH THIẾU NHI 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",GIA ĐÌNH SIÊU NHÂN
 http://ws.flv.nimo.tv:80/live/su1599512427550r65c59d6765bd2ee18bc20eaddda437d5_high.flv?needwm=0
 #EXTINF:-1 group-title=" 🇻🇳 KÊNH THIẾU NHI 🇺🇸 " tvg-logo="https://imgur.com/UprzmJT.png",DRAGON BALL
