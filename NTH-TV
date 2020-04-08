@@ -164,17 +164,17 @@ https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title=" KÊNH PHIM TRUYỆN " tvg-logo="https://i.postimg.cc/VsBd17L1/2-FOX.png",FOX
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title=" KÊNH PHIM TRUYỆN " tvg-logo="https://i.postimg.cc/XNk50RXL/2-FOX-MOVIES-2.png",FOX MOVIES
+#EXTINF:-1 group-title=" KÊNH PHIM TRUYỆN " tvg-logo="https://i.postimg.cc/QdPMSwSg/2-FOX-MOVIES.png",FOX MOVIES
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title=" KÊNH PHIM TRUYỆN " tvg-logo="https://i.postimg.cc/W1hqgt8Y/2-FOX-FAMILY-MOVIES-2.png",FOX MOVIE FAMILY
+#EXTINF:-1 group-title=" KÊNH PHIM TRUYỆN " tvg-logo="https://i.postimg.cc/85MMHJMr/2-FOX-FAMILY-MOVIES.png",FOX MOVIE FAMILY
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title=" KÊNH PHIM TRUYỆN " tvg-logo="https://i.postimg.cc/HkqnMzVj/2-FOX-LIFE-2.png",FOX LIFE
+#EXTINF:-1 group-title=" KÊNH PHIM TRUYỆN " tvg-logo="https://i.postimg.cc/Hs6n8Vyh/2-FOX-LIFE.png",FOX LIFE
 http://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title=" KÊNH PHIM TRUYỆN " tvg-logo="https://i.postimg.cc/G2J4dD3t/2-AXN-2.png",AXN
+#EXTINF:-1 group-title=" KÊNH PHIM TRUYỆN " tvg-logo="https://i.postimg.cc/zXc2fF02/2-AXN.png",AXN
 https://livecdn.fptplay.net/qnetlive/axnhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title=" KÊNH PHIM TRUYỆN " tvg-logo="https://i.postimg.cc/ncjQW2Kp/2-KIX.png",KIX
 http://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title=" KÊNH PHIM TRUYỆN " tvg-logo="https://i.postimg.cc/MGH5cWfz/2-WARNER-TV-2.png",WARNER TV
+#EXTINF:-1 group-title=" KÊNH PHIM TRUYỆN " tvg-logo="https://i.postimg.cc/d0fBrzGr/2-WARNER-TV.png",WARNER TV
 http://livecdn.fptplay.net/qnetlive/warnertv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title=" KÊNH PHIM TRUYỆN " tvg-logo="https://i.postimg.cc/MTLfBHNw/2-CINEMAWORLD.png",CINEMAWORLD
 http://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist_b2500000.m3u8
@@ -182,7 +182,7 @@ http://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist_b2500000.m3u8
 http://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title=" KÊNH PHIM TRUYỆN " tvg-logo="https://i.postimg.cc/9Q7JPgGs/2-BLUE-ANT-ENTERTAINMENT.png",BLUE ANT ENTERTAINMENT
 http://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title=" KÊNH PHIM TRUYỆN " tvg-logo="https://i.postimg.cc/ZK05D2NC/2-HBO-2.png",HBO
+#EXTINF:-1 group-title=" KÊNH PHIM TRUYỆN " tvg-logo="https://i.postimg.cc/yNC6xNbZ/2-HBO.png",HBO
 http://iptvfree.gq/live/hbo.m3u8
 #EXTINF:-1 group-title=" KÊNH PHIM TRUYỆN " tvg-logo="https://i.postimg.cc/xdzLPKGC/2-RED-BY-HBO.png",RED by HBO
 http://vtv.iptvfree.gq:2086/live/redbyhbo.m3u8
