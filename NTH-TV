@@ -351,13 +351,13 @@ http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v1a1/index.m3u8
 http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
 
 
-#EXTINF:-1 group-title=" KÊNH 4K UHD " tvg-logo="https://imgur.com/xslOXxJ.png" ,EUROSPORT 4K
+#EXTINF:-1 group-title=" KÊNH 4K UHD " tvg-logo="https://lh3.googleusercontent.com/proxy/xmY_X6lL4MFwz-stofBopea2R32cdRNq11nRyFNKrMeygr6hitjIwLRt8Y_PqoRJk5IqzIEHZyKlstn79cwU3qLywiIu4C07Vmsxt0fU" ,EUROSPORT 4K
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_EUROSPORT4K_HLS/bw20000000/variant.m3u8
-#EXTINF:-1 group-title=" KÊNH 4K UHD " tvg-logo="https://imgur.com/OLaBZPz.png" ,CINEMA 4K
+#EXTINF:-1 group-title=" KÊNH 4K UHD " tvg-logo="https://www.cableman.ru/sites/default/files/ultra_hd_cinema.png?1539781770" ,CINEMA 4K
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw20000000/variant.m3u8
-#EXTINF:-1 group-title=" KÊNH 4K UHD " tvg-logo="https://imgur.com/42f8D6Y.png" ,ULTRA REX 4K
+#EXTINF:-1 group-title=" KÊNH 4K UHD " tvg-logo="https://www.cableman.ru/sites/default/files/ultra_rex_logo.png?1573642200" ,ULTRA REX 4K
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw20000000/variant.m3u8
-#EXTINF:-1 group-title=" KÊNH 4K UHD " tvg-logo="https://imgur.com/AKZAHfQ.png" ,LOVE NATURE 4K
+#EXTINF:-1 group-title=" KÊNH 4K UHD " tvg-logo="https://www.lovenature.com.br/wp-content/uploads/2019/02/Logo_LoveNature_486x226-215x100@2x.png" ,LOVE NATURE 4K
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw20000000/variant.m3u8
 
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/fTLkWSyj/2-FOX-SPORTS.png",FOXSPORT ASIA 1
