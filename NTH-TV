@@ -232,15 +232,15 @@ https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 #http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title=" KÊNH KHOA HỌC " tvg-logo="https://i.postimg.cc/L4fjPB90/2-DISCOVERY-ASIA.png",DISCOVERY ASIA
 http://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title=" KÊNH KHOA HỌC " tvg-logo="https://i.postimg.cc/P5YbvtyK/2-OUTDOOR-CHANNEL-2.png",OUT DOOR CHANNEL
+#EXTINF:-1 group-title=" KÊNH KHOA HỌC " tvg-logo="https://i.postimg.cc/PJcH5xV2/2-OUTDOOR-CHANNEL.png",OUT DOOR CHANNEL
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title=" KÊNH KHOA HỌC " tvg-logo="https://i.postimg.cc/G2cCYmCC/2-NATIONAL-GEOGRAPHIC-2.png",NAT GEO
+#EXTINF:-1 group-title=" KÊNH KHOA HỌC " tvg-logo="https://i.postimg.cc/XvKWpytL/2-NATIONAL-GEOGRAPHIC.png",NAT GEO
 http://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title=" KÊNH KHOA HỌC " tvg-logo="https://i.postimg.cc/bwtpf5TK/2-NAT-GEO-PEOPLE-2.png",NAT GEO PEOPLE
+#EXTINF:-1 group-title=" KÊNH KHOA HỌC " tvg-logo="https://i.postimg.cc/fWXgb96M/2-NAT-GEO-PEOPLE.png",NAT GEO PEOPLE
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
-#EXTINF:-1 group-title=" KÊNH KHOA HỌC " tvg-logo="https://i.postimg.cc/CKpYh4rd/2-NAT-GEO-WILD-2.png",NAT GEO WILD
+#EXTINF:-1 group-title=" KÊNH KHOA HỌC " tvg-logo="https://i.postimg.cc/4x48wFn3/2-NAT-GEO-WILD.png",NAT GEO WILD
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_wild/05.m3u8
-#EXTINF:-1 group-title=" KÊNH KHOA HỌC " tvg-logo="https://i.postimg.cc/qqPgHWbV/2-BBC-LIFESTYLE-2.png",BBC LIFESTYLE
+#EXTINF:-1 group-title=" KÊNH KHOA HỌC " tvg-logo="https://i.postimg.cc/J4XG5401/2-BBC-LIFESTYLE.png",BBC LIFESTYLE
 http://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title=" KÊNH KHOA HỌC " tvg-logo="https://i.postimg.cc/13cXbCD2/2-BBC-EARTH.png",BBC EARTH
 http://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
@@ -282,13 +282,13 @@ http://ws.flv.nimo.tv:80/live/su1599512427556r803c8e196969c0688aecbfcf32d604b3_h
 http://htv-drm-live-cdn.fptplay.net:80/CDN-FPT02/CHANNELV-HD-1080p/chunks.m3u8
 #EXTINF:-1 group-title=" KÊNH CA NHẠC " tvg-logo="https://i.postimg.cc/m26HKRtH/2-CHANNEL-V-3.png",VMUSIC
 http://ca-1.galaxyott.com:80/rtmp/hls/vmusic.m3u8
-#EXTINF:-1 group-title=" KÊNH CA NHẠC " tvg-logo="https://i.postimg.cc/D08nH3R5/2-MTV-2.png",MTV
+#EXTINF:-1 group-title=" KÊNH CA NHẠC " tvg-logo="https://i.postimg.cc/s24jZcpP/2-MTV.png",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-#EXTINF:-1 group-title=" KÊNH CA NHẠC " tvg-logo="https://i.postimg.cc/D08nH3R5/2-MTV-2.png",MTV BLOCK PARTY
+#EXTINF:-1 group-title=" KÊNH CA NHẠC " tvg-logo="https://i.postimg.cc/s24jZcpP/2-MTV.png",MTV BLOCK PARTY
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master_2400.m3u8
-#EXTINF:-1 group-title=" KÊNH CA NHẠC " tvg-logo="https://i.postimg.cc/D08nH3R5/2-MTV-2.png",MTV BIGGEST POP
+#EXTINF:-1 group-title=" KÊNH CA NHẠC " tvg-logo="https://i.postimg.cc/s24jZcpP/2-MTV.png",MTV BIGGEST POP
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
-#EXTINF:-1 group-title=" KÊNH CA NHẠC " tvg-logo="https://i.postimg.cc/D08nH3R5/2-MTV-2.png",MTV YO!
+#EXTINF:-1 group-title=" KÊNH CA NHẠC " tvg-logo="https://i.postimg.cc/s24jZcpP/2-MTV.png",MTV YO!
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_2400.m3u8
 #EXTINF:-1 group-title=" KÊNH CA NHẠC " tvg-logo="https://i.imgur.com/HGxO3M3.jpg",REMEMBER HQM
 https://livelist01.yowi.tv/lista/57c98e2e295a0b69b52dc5f84edc4b1b68783ba2/index-v1-a1.m3u8
@@ -331,23 +331,23 @@ https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
 #EXTINF:-1 group-title=" KÊNH CA NHẠC " tvg-logo="https://imgur.com/TuK1e67.png",TRACE NAIJA
 https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
 
-#EXTINF:-1 group-title=" KÊNH THỜI TRANG " tvg-logo="https://i.imgur.com/WNsF7Xq.png",FASHION TV PG16
+#EXTINF:-1 group-title=" KÊNH THỜI TRANG " tvg-logo="https://i.postimg.cc/KYk12x4s/2-FASHION-TV.png",FASHION TV PG16
 http://fash1043.cloudycdn.services:80/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 group-title=" KÊNH THỜI TRANG " tvg-logo="https://i.imgur.com/WNsF7Xq.png",FASHION TOP MODEL
+#EXTINF:-1 group-title=" KÊNH THỜI TRANG " tvg-logo="https://i.postimg.cc/KYk12x4s/2-FASHION-TV.png",FASHION TOP MODEL
 http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 group-title=" KÊNH THỜI TRANG " tvg-logo="https://i.imgur.com/WNsF7Xq.png" , FASHION TV PG13
+#EXTINF:-1 group-title=" KÊNH THỜI TRANG " tvg-logo="https://i.postimg.cc/KYk12x4s/2-FASHION-TV.png" , FASHION TV PG13
 http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 group-title=" KÊNH THỜI TRANG " tvg-logo="https://i.imgur.com/WNsF7Xq.png" , FASHION MIDNIGHT
+#EXTINF:-1 group-title=" KÊNH THỜI TRANG " tvg-logo="https://i.postimg.cc/KYk12x4s/2-FASHION-TV.png" , FASHION MIDNIGHT
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 group-title=" KÊNH THỜI TRANG " tvg-logo="https://i.imgur.com/WNsF7Xq.png" , VICTORYA SECCRET
+#EXTINF:-1 group-title=" KÊNH THỜI TRANG " tvg-logo="https://i.postimg.cc/KYk12x4s/2-FASHION-TV.png" , VICTORYA SECCRET
 http://ws.flv.nimo.tv:80/live/su1599512427571r1102c4ec00373812eb4f891fa929ea7b_high.flv?needwm=0
-#EXTINF:-1 group-title=" KÊNH THỜI TRANG " tvg-logo="https://i.imgur.com/WNsF7Xq.png",HD FASHION
+#EXTINF:-1 group-title=" KÊNH THỜI TRANG " tvg-logo="https://i.postimg.cc/KYk12x4s/2-FASHION-TV.png",HD FASHION
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:-1 group-title=" KÊNH THỜI TRANG " tvg-logo="https://i.imgur.com/WNsF7Xq.png" , ID FASHION
+#EXTINF:-1 group-title=" KÊNH THỜI TRANG " tvg-logo="https://i.postimg.cc/KYk12x4s/2-FASHION-TV.png" , ID FASHION
 http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_mid/index.m3u8
-#EXTINF:-1 group-title=" KÊNH THỜI TRANG " tvg-logo="https://i.imgur.com/WNsF7Xq.png" , WORLD FASHION CHANNEL
+#EXTINF:-1 group-title=" KÊNH THỜI TRANG " tvg-logo="https://i.postimg.cc/KYk12x4s/2-FASHION-TV.png" , WORLD FASHION CHANNEL
 http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title=" KÊNH THỜI TRANG " tvg-logo="https://i.imgur.com/WNsF7Xq.png" ,WFC TV
+#EXTINF:-1 group-title=" KÊNH THỜI TRANG " tvg-logo="https://i.postimg.cc/KYk12x4s/2-FASHION-TV.png" ,WFC TV
 http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
 
 
