@@ -229,25 +229,6 @@ https://ws.flv.nimo.tv/live/su1599512427606rf2ef4b5c1579eb96360153fb0d1fcfc1.flv
 #EXTINF:-1 group-title=" KÊNH PHIM TRUYỆN " tvg-logo="https://www.jakpost.travel/wimages/large/69-694256_nimo-tv-is-one-of-the-world-s.png",HÀI VÂN SƠN BẢO LIÊM
 https://ws.flv.nimo.tv/live/su1599512427607r6166990443e2840d425f385a8df6c4c7.flv?needwm=0
 
-#EXTINF:-1 group-title=" KÊNH KHOA HỌC " tvg-logo="https://i.postimg.cc/DZPYyVM1/2-ANIMAL-PLANET.png",ANIMAL PLANET
-http://203.162.235.46:19004/hls/EROSPORTNEWS_HD/playlist.m3u8
-#EXTINF:-1 group-title=" KÊNH KHOA HỌC " tvg-logo="https://i.postimg.cc/Nfqgb7y0/2-ASIAN-FOOD-NETWORK.png",ASIA FOOD CHANNEL
-https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
-#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title=" KÊNH KHOA HỌC " tvg-logo="https://i.postimg.cc/L4fjPB90/2-DISCOVERY-ASIA.png",DISCOVERY ASIA
-http://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title=" KÊNH KHOA HỌC " tvg-logo="https://i.postimg.cc/PJcH5xV2/2-OUTDOOR-CHANNEL.png",OUT DOOR CHANNEL
-https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title=" KÊNH KHOA HỌC " tvg-logo="https://i.postimg.cc/XvKWpytL/2-NATIONAL-GEOGRAPHIC.png",NAT GEO
-http://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title=" KÊNH KHOA HỌC " tvg-logo="https://i.postimg.cc/fWXgb96M/2-NAT-GEO-PEOPLE.png",NAT GEO PEOPLE
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
-#EXTINF:-1 group-title=" KÊNH KHOA HỌC " tvg-logo="https://i.postimg.cc/4x48wFn3/2-NAT-GEO-WILD.png",NAT GEO WILD
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_wild/05.m3u8
-#EXTINF:-1 group-title=" KÊNH KHOA HỌC " tvg-logo="https://i.postimg.cc/J4XG5401/2-BBC-LIFESTYLE.png",BBC LIFESTYLE
-http://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title=" KÊNH KHOA HỌC " tvg-logo="https://i.postimg.cc/13cXbCD2/2-BBC-EARTH.png",BBC EARTH
-http://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title=" KÊNH THIẾU NHI " tvg-logo="https://i.postimg.cc/6qc088SX/2-CARTOON-NETWORK.png",CARTOON NETWORK
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
@@ -280,6 +261,26 @@ http://ws.flv.nimo.tv:80/live/su1599512427628r795aa3513d96486ecb48bf44496b8fd7_h
 http://ws.flv.nimo.tv:80/live/su1599512427556r803c8e196969c0688aecbfcf32d604b3_high.flv?needwm=0
 #EXTINF:-1 group-title=" KÊNH THIẾU NHI " tvg-logo="https://steamcdn-a.akamaihd.net/steam/apps/703180/header.jpg?t=1579694431",BEN 10
 http://ws.flv.nimo.tv:80/live/su1599512427556r803c8e196969c0688aecbfcf32d604b3_high.flv?needwm=0
+
+#EXTINF:-1 group-title=" KÊNH KHOA HỌC " tvg-logo="https://i.postimg.cc/DZPYyVM1/2-ANIMAL-PLANET.png",ANIMAL PLANET
+http://203.162.235.46:19004/hls/EROSPORTNEWS_HD/playlist.m3u8
+#EXTINF:-1 group-title=" KÊNH KHOA HỌC " tvg-logo="https://i.postimg.cc/Nfqgb7y0/2-ASIAN-FOOD-NETWORK.png",ASIA FOOD CHANNEL
+https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title=" KÊNH KHOA HỌC " tvg-logo="https://i.postimg.cc/L4fjPB90/2-DISCOVERY-ASIA.png",DISCOVERY ASIA
+http://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title=" KÊNH KHOA HỌC " tvg-logo="https://i.postimg.cc/PJcH5xV2/2-OUTDOOR-CHANNEL.png",OUT DOOR CHANNEL
+https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title=" KÊNH KHOA HỌC " tvg-logo="https://i.postimg.cc/XvKWpytL/2-NATIONAL-GEOGRAPHIC.png",NAT GEO
+http://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title=" KÊNH KHOA HỌC " tvg-logo="https://i.postimg.cc/fWXgb96M/2-NAT-GEO-PEOPLE.png",NAT GEO PEOPLE
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
+#EXTINF:-1 group-title=" KÊNH KHOA HỌC " tvg-logo="https://i.postimg.cc/4x48wFn3/2-NAT-GEO-WILD.png",NAT GEO WILD
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_wild/05.m3u8
+#EXTINF:-1 group-title=" KÊNH KHOA HỌC " tvg-logo="https://i.postimg.cc/J4XG5401/2-BBC-LIFESTYLE.png",BBC LIFESTYLE
+http://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title=" KÊNH KHOA HỌC " tvg-logo="https://i.postimg.cc/13cXbCD2/2-BBC-EARTH.png",BBC EARTH
+http://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 
 
 #EXTINF:-1 group-title=" KÊNH CA NHẠC " tvg-logo="https://i.postimg.cc/wxsQVYV2/2-CHANNEL-V-HD.png",CHANNEL V
