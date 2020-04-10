@@ -383,6 +383,8 @@ http://00100.co:2086/live/Woody/Woody/187.ts
 http://00100.co:2086/live/Woody/Woody/352.ts
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/sx61rLmx/BEIN-ES.png",BEINSPORTS ES
 http://00100.co:2086/live/Woody/Woody/66785.ts
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/Dw6DvDpd/La-Liga-TV-Bar-HD.png",LALIGA TV
+http://00100.co:2086/live/Woody/Woody/66786.ts
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.thesportsdb.com/images/media/logo/qwvsut1433964035.png",ESPN
 http://00100.co:2086/live/Woody/Woody/13604.ts
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.thesportsdb.com/images/media/logo/ESPN_2_Argentina.png",ESPN 2
@@ -421,8 +423,6 @@ http://00100.co:2086/live/Woody/Woody/67067.ts
 http://00100.co:2086/live/Woody/Woody/91782.ts
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/133xvnPr/PREMIER-SPORTS-2.png",PREMIERSPORT 2
 http://00100.co:2086/live/Woody/Woody/91783.ts
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/Dw6DvDpd/La-Liga-TV-Bar-HD.png",LALIGA TV
-http://00100.co:2086/live/Woody/Woody/66786.ts
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/tgXGSWmB/RMC-1.png",RMC 1
 http://00100.co:2086/live/Woody/Woody/92216.ts
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/j520KKTN/RMC-2.png",RMC 2
