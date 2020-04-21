@@ -378,13 +378,13 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/playlist.m3u8
 
 
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/D0ymRhqR/NBCSN.png",NBCSN
-http://ok2.se:8000/live/caseys/caseys/149.ts
+http://ok2.se:8000/live/caseys/caseys/170.ts
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/pTvmYzyW/NBC-GOLF.png",NBC GOLF
 http://ok2.se:8000/live/caseys/caseys/3403.ts
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/Hsv7Drvz/FS1.png",FS1
-http://ok2.se:8000/live/caseys/caseys/188.ts
+http://ok2.se:8000/live/caseys/caseys/145.ts
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/0yLMjLsJ/FS2.png",FS2
-http://ok2.se:8000/live/caseys/caseys/187.ts
+http://ok2.se:8000/live/caseys/caseys/146.ts
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/D0B4z0v2/BEIN-US.png",BEINSPORTS US
 http://ok2.se:8000/live/caseys/caseys/352.ts
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/sx61rLmx/BEIN-ES.png",BEINSPORTS ES
@@ -418,13 +418,13 @@ http://ok2.se:8000/live/caseys/caseys/85931.ts
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/5Ny8cJmB/sky-news.png",SKY NEWS
 http://ok2.se:8000/live/caseys/caseys/67091.ts
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/Gm39JcS0/BT-1HD.png",BTSPORTS 1
-http://ok2.se:8000/live/caseys/caseys/67062.ts
+http://ok2.se:8000/live/caseys/caseys/225.ts
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/m2ytHcjN/BT-2HD.png",BTSPORTS 2
-http://ok2.se:8000/live/caseys/caseys/67063.ts
+http://ok2.se:8000/live/caseys/caseys/226.ts
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/B6FvQttF/BT-3HD.png",BTSPORTS 3
-http://ok2.se:8000/live/caseys/caseys/67075.ts
+http://ok2.se:8000/live/caseys/caseys/232.ts
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/mrtDJms8/BT-ESPNHD.png",BTSPORTS ESPN
-http://ok2.se:8000/live/caseys/caseys/67067.ts
+http://ok2.se:8000/live/caseys/caseys/233.ts
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/bNTc0HXv/PREMIER-SPORTS-1.png",PREMIERSPORT 1
 http://ok2.se:8000/live/caseys/caseys/91782.ts
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/133xvnPr/PREMIER-SPORTS-2.png",PREMIERSPORT 2
@@ -444,29 +444,29 @@ http://ok2.se:8000/live/caseys/caseys/92222.ts
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/x1gt2QJn/Bein-Sport-HD3fr.png",BEINSPORTS 3 FR
 http://ok2.se:8000/live/caseys/caseys/92223.ts
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://channelstream.me/images/prog/channel/bein_1.png",BEINSPORTS 1
-http://ok2.se:8000/live/caseys/caseys/66772.ts
+http://ok2.se:8000/live/caseys/caseys/4814.ts
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://channelstream.me/images/prog/channel/bein_2.png",BEINSPORTS 2
-http://ok2.se:8000/live/caseys/caseys/66773.ts
+http://ok2.se:8000/live/caseys/caseys/4813.ts
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://channelstream.me/images/prog/channel/bein_3.png",BEINSPORTS 3
-http://ok2.se:8000/live/caseys/caseys/66774.ts
+http://ok2.se:8000/live/caseys/caseys/4812.ts
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://channelstream.me/images/prog/channel/bein_4.png",BEINSPORTS 4
-http://ok2.se:8000/live/caseys/caseys/66775.ts
+http://ok2.se:8000/live/caseys/caseys/4811.ts
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://channelstream.me/images/prog/channel/bein_5.png",BEINSPORTS 5
-http://ok2.se:8000/live/caseys/caseys/66776.ts
+http://ok2.se:8000/live/caseys/caseys/4810.ts
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://channelstream.me/images/prog/channel/bein_6.png",BEINSPORTS 6
-http://ok2.se:8000/live/caseys/caseys/66777.ts
+http://ok2.se:8000/live/caseys/caseys/4809.ts
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://channelstream.me/images/prog/channel/bein_7.png",BEINSPORTS 7
-http://ok2.se:8000/live/caseys/caseys/66778.ts
+http://ok2.se:8000/live/caseys/caseys/4808.ts
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://channelstream.me/images/prog/channel/bein_8.png",BEINSPORTS 8
-http://ok2.se:8000/live/caseys/caseys/66779.ts
+http://ok2.se:8000/live/caseys/caseys/4807.ts
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://channelstream.me/images/prog/channel/bein_9.png",BEINSPORTS 9
-http://ok2.se:8000/live/caseys/caseys/66780.ts
+http://ok2.se:8000/live/caseys/caseys/4806.ts
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://channelstream.me/images/prog/channel/bein_10.png",BEINSPORTS 10
-http://ok2.se:8000/live/caseys/caseys/66781.ts
+http://ok2.se:8000/live/caseys/caseys/4805.ts
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/jjb3tZZQ/bein-11.png",BEINSPORTS 11
-http://ok2.se:8000/live/caseys/caseys/66782.ts
+http://ok2.se:8000/live/caseys/caseys/74480.ts
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/hj0HHHnd/bein-12.png",BEINSPORTS 12
-http://ok2.se:8000/live/caseys/caseys/66783.ts
+http://ok2.se:8000/live/caseys/caseys/74479.ts
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://supersport.azureedge.net/web-assets/channels/SS1.png",SUPERSPORTS 1
 http://ok2.se:8000/live/caseys/caseys/81963.ts
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://supersport.azureedge.net/web-assets/channels/SS2.png",SUPERSPORTS 2
