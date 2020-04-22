@@ -451,13 +451,12 @@ http://ok2.se:8000/live/caseys/caseys/91782.ts
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/133xvnPr/PREMIER-SPORTS-2.png",PREMIERSPORT 2
 http://ok2.se:8000/live/caseys/caseys/91783.ts
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/tgXGSWmB/RMC-1.png",RMC 1
-http://ok2.se:8000/live/caseys/caseys/92216.ts
+http://flusonic-4.platinum-tv.com:80/sfr_sport_1/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/j520KKTN/RMC-2.png",RMC 2
-http://ok2.se:8000/live/caseys/caseys/92217.ts
+http://flusonic-4.platinum-tv.com:80/sfr_sport_2/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/FR6tHqF6/RMC-3.png",RMC 3
-http://ok2.se:8000/live/caseys/caseys/92218.ts
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/xdtDW8wn/RMC-4.png",RMC 4
-http://ok2.se:8000/live/caseys/caseys/92219.ts
+http://flusonic-4.platinum-tv.com:80/sfr_sport_3/tracks-v1a1/mono.m3u8?token=test
+
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/XvJxNPdF/Bein-Sport-HD1fr.png",BEINSPORTS 1 FR
 http://ok2.se:8000/live/caseys/caseys/92221.ts
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/Fs5PbDX5/Bein-Sport-HD2fr.png",BEINSPORTS 2 FR
