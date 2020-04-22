@@ -365,10 +365,16 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw20000000/va
 #EXTINF:-1 group-title=" KÊNH 4K UHD " tvg-logo="https://img.pngio.com/home-love-nature-nature-love-png-1724_680.png" ,LOVE NATURE 4K
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw20000000/variant.m3u8
 
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/MGMgbrrQ/VTVcab16-BONG-DA-TV.png",BDTV
-http://iptvfree.gq/live/vtvcab1.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/2yDp5FGB/VTVcab3-THE-THAO-TV.png",TTTV
-http://iptvfree.gq/live/vtvcab3.m3u8
+
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/yxMtjD9h/SCTV17-SSPORT.png",SSPORT 
+https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV17_HD.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/yxMtjD9h/SCTV17-SSPORT.png",SSPORT 1
+https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV22_HD.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/yxMtjD9h/SCTV17-SSPORT.png",SSPORT 2
+https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV_HD_TheThao.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/yxMtjD9h/SCTV17-SSPORT.png",SSPORT 3
+https://vtsstr3.tv24.vn/elive1/_definst_/smil:btv5_HD.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&
+
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/fTLkWSyj/2-FOX-SPORTS.png",FOXSPORT ASIA 1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/c4bCv18q/2-FOX-SPORTS-2.png",FOXSPORT ASIA 2
@@ -389,30 +395,33 @@ http://tv.vnoo.net:80/direct_tv/hoiplaytv/xxx444223232gg/futbol1.m3u8
 http://tv.vnoo.net:80/direct_tv/hoiplaytv/xxx444223232gg/futbol2.m3u8
 
 
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/D0ymRhqR/NBCSN.png",NBCSN
-http://ok2.se:8000/live/caseys/caseys/170.ts
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/pTvmYzyW/NBC-GOLF.png",NBC GOLF
-http://ok2.se:8000/live/caseys/caseys/3403.ts
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/Hsv7Drvz/FS1.png",FS1
-http://ok2.se:8000/live/caseys/caseys/145.ts
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/0yLMjLsJ/FS2.png",FS2
-http://ok2.se:8000/live/caseys/caseys/146.ts
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/D0B4z0v2/BEIN-US.png",BEINSPORTS US
-http://ok2.se:8000/live/caseys/caseys/352.ts
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/sx61rLmx/BEIN-ES.png",BEINSPORTS ES
-http://ok2.se:8000/live/caseys/caseys/66785.ts
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/Dw6DvDpd/La-Liga-TV-Bar-HD.png",LALIGA TV
-http://ok2.se:8000/live/caseys/caseys/66786.ts
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.thesportsdb.com/images/media/logo/qwvsut1433964035.png",ESPN
-http://ok2.se:8000/live/caseys/caseys/13604.ts
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.thesportsdb.com/images/media/logo/ESPN_2_Argentina.png",ESPN 2
-http://ok2.se:8000/live/caseys/caseys/343.ts
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.thesportsdb.com/images/media/logo/ESPN_News.png",ESPN NEWS
-http://ok2.se:8000/live/caseys/caseys/1702.ts
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.thesportsdb.com/images/media/logo/qwxxut1433431075.png",ESPN U
-http://ok2.se:8000/live/caseys/caseys/475.ts
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.thesportsdb.com/images/media/logo/ESPN_Deportes.png",ESPN DEPORTES
-http://ok2.se:8000/live/caseys/caseys/66568.ts
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/nDS2OkQ.png",SUPERSPORT 1
+http://51.15.1.36:25461/live/SPORT-LINK3/TOKEN-LINK3/32.ts
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/nDS2OkQ.png",SUPERSPORT 2
+http://51.15.1.36:25461/live/SPORT-LINK3/TOKEN-LINK3/33.ts
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/nDS2OkQ.png",SUPERSPORT 3
+http://51.15.1.36:25461/live/SPORT-LINK3/TOKEN-LINK3/34.ts
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/nDS2OkQ.png",SUPERSPORT 4
+http://51.15.1.36:25461/live/SPORT-LINK3/TOKEN-LINK3/35.ts
+
+
+
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ytimg.com/vi/5275CQw7N18/maxresdefault.jpg",МАТЧ! ФУТБОЛ 1
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/match-futbol-1.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ytimg.com/vi/VRGpsWAVUVg/maxresdefault.jpg",МАТЧ! ФУТБОЛ 2
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/match-futbol-2.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ytimg.com/vi/tOwFck_CnMI/maxresdefault.jpg",МАТЧ! ФУТБОЛ 3
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/match-futbol-3.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://s9.ollcdn.net/i/86/8b/4d/868b4d537x295.png",ФУТБОЛ 1
+http://s04.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/futbol1-ua.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://s9.ollcdn.net/i/91/fc/c5/91fcc5537x295.png",ФУТБОЛ 2
+http://s04.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/futbol2-ua.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://s8.ollcdn.net/i/8c/24/93/8c2493537x295.png",ФУТБОЛ 3
+http://s04.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/futbol3-ua.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://lh3.googleusercontent.com/proxy/6w0n_RqKrUzWFmxKT4ATlm953tdQG6wGB5B4799tT_vYKe2DgxQJlh7thPmBPzYiFzf1-xeRiMM",SPORT 1
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/sport1-ua.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://lh3.googleusercontent.com/proxy/Fpi6Qpaez2ljmImvlKiJck7h93BmPDK-b65fbuiN1393-ytCazPrjoQr8DBgiv9X4I_WIIhHS8c",SPORT 2
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/sport2-ua.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/kXHKqHjk/sky-epl.png",SKY PREMIER LEAGUE
 http://ok2.se:8000/live/caseys/caseys/67060.ts
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/SsVY5121/sky-main.png",SKY MAIN EVENT
