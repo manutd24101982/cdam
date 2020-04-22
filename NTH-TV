@@ -377,6 +377,19 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/playlist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/playlist.m3u8
 
 
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ytimg.com/vi/5275CQw7N18/maxresdefault.jpg",МАТЧ! ФУТБОЛ 1
+http://tv.vnoo.net:80/direct_tv/hoiplaytv/xxx444223232gg/matchfootball1.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ytimg.com/vi/VRGpsWAVUVg/maxresdefault.jpg",МАТЧ! ФУТБОЛ 2
+http://tv.vnoo.net:80/direct_tv/hoiplaytv/xxx444223232gg/matchfootball2.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ytimg.com/vi/tOwFck_CnMI/maxresdefault.jpg",МАТЧ! ФУТБОЛ 3
+http://tv.vnoo.net:80/direct_tv/hoiplaytv/xxx444223232gg/matchfootball3.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://s9.ollcdn.net/i/86/8b/4d/868b4d537x295.png",ФУТБОЛ 1
+http://us-cdn-01.vnoo.net:8080/live/0/0/futbol1/79347851474c58594e366e7a30536c7a7970415561362f484878685857642f7a33596c4e2f686d4959582b4b6a77617447415468305247583443356a6f4a4752777845436b4157367864713430446e5a4c73656474366238344170776b5452356c526b6c51546a36686d584c725458355964724e6d74773046754d485a454242/playlist.m3u8?s=1358748c3ab918e568f6365f6515222f&t=1587525582&ip=222.254.22.191
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://s9.ollcdn.net/i/91/fc/c5/91fcc5537x295.png",ФУТБОЛ 2
+http://us-cdn-01.vnoo.net:8080/live/0/0/futbol2/435562567551684354484c5a326f65657634434878694c34536f6d5247395a69725833304a4747516e496849486b676b4a33755533526b773854344d645633455631474874725843754476497a38387279302f39783557555051585257543836742b4644657942384f775055454a7238727438307570504754334e45544b487a/playlist.m3u8?s=e3f3f1079a1c5340d2190adbc7195566&t=1587525666&ip=222.254.22.191
+
+
+
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/D0ymRhqR/NBCSN.png",NBCSN
 http://ok2.se:8000/live/caseys/caseys/170.ts
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/pTvmYzyW/NBC-GOLF.png",NBC GOLF
